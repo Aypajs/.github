@@ -12,5 +12,5 @@
 - [Discord]
 
 
-[Website]: https://github.com/Aypajs/Aypa
-[Discord]: https://discord.gg/
+[Website]: https://aypa.io
+[Discord]: https://discord.gg/ySk3xtycax
